@@ -12,7 +12,7 @@ Esta es una solución al [desafío de la sección de funciones de cuatro cartas 
 
   - [El reto](#el-reto)
 - [Mi proceso](#mi-proceso)
-  - [Construido con](#construido con)
+  - [Construido con](#construido-con)
   - [Lo que aprendí](#lo-que-aprendí)
   - [Desarrollo continuo](#desarrollo-continuo)
   - [Recursos útiles](#recursos-útiles)
