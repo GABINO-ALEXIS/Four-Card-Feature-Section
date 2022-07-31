@@ -38,6 +38,6 @@ Aprendi a reforzar mis conocimientos relizando este desafio
 ## Autor
 
 - Gabino Alexis
-- Mentor de frontend - [@tunombredeusuario](https://www.frontendmentor.io/profile/tunombredeusuario)
+- Mentor de frontend - [GABINO-ALEXIS](https://www.frontendmentor.io/profile/GABINO-ALEXIS)
 
 ## Thank you!!
