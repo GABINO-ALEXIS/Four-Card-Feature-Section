@@ -1,6 +1,6 @@
 # Sección de funciones de cuatro cartas
 
-![Design preview for the Four card feature section coding challenge](./design/desktop design.jpg)
+![Design preview for the Four card feature section coding challenge](./design/desktop-design.jpg)
 
 ## Welcome! 👋
 
